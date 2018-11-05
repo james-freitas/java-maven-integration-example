@@ -1,0 +1,1 @@
+JMH S 56 com.ericsson.benchmark.jmh.jmapper.JMapperBasicBenchmark S 91 com.ericsson.benchmark.jmh.jmapper.generated.JMapperBasicBenchmark_measuringJmapper_jmhTest S 16 measuringJmapper S 10 Throughput E A 1 1 1 E I 1 1 E E I 1 1 E E I 1 1 I 1 1 E E E E E E E E 
