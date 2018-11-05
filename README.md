@@ -1,6 +1,6 @@
 # Maven Integration example
 
-** Follow these steps **
+**Follow these steps**
 * Execute ```mvn clean install``` in jmapper-example project
 * Execute ```mvn clean install``` in jmh-benchmark project
 * Inside jmh-benchmark folder execute ```java -jar target/benchmarks.jar``` 
